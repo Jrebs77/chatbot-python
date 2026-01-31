@@ -20,7 +20,7 @@ def conversar_com_gpt():
             reply = completion.choices[0].message.content
             print("Chat Bot :", reply) 
 
-
+        )
 
 
     
